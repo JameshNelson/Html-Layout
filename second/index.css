@@ -1,0 +1,71 @@
+.top{
+    height: 25vh; 
+    width: 95vw; 
+    border: solid black; 
+    margin-left: 2.5vw; 
+    margin-bottom: 2.5vh; 
+    display: flex; 
+    justify-content: space-between; 
+}
+
+.center{
+    height: 30vh; 
+    width: 95vw; 
+    border: dotted black;
+    margin-left: 2.5vw; 
+    margin-bottom: 2.5vh; 
+}
+
+.bottom{
+    height: 35vh; 
+    width: 35vw; 
+    box-shadow: 5px 10px #888888;
+    margin-left: 32.5vw; 
+    border: .25px solid; 
+}
+
+.friends{ 
+    margin-top: 100px; 
+    font-size: 25px; 
+    color: blue; 
+    text-align: center; 
+    font-weight: bold; 
+    letter-spacing: 7px; 
+}
+
+.box{
+    height: 80%; 
+    width: 80%; 
+    background-color:tan;
+    margin-left: 100px; 
+    margin-top: 20px; 
+    box-shadow: 8px 8px #2e2e2e
+}
+
+.purple{
+    background-color: purple; 
+    height: 70%; 
+    width: 5%; 
+    margin-left: 1vw; 
+    margin-top: 40px;
+}
+
+.green{
+    background-color: green; 
+    height: 90%; 
+    width: 30%; 
+    margin-top: 10px; 
+}
+
+.circle{
+    border-radius: 50%; 
+    height: 90%;
+    width: 15%; 
+    background-color: lightblue; 
+    margin-top: 10px; 
+}
+
+.blank{ 
+    height: 100%;
+    width: 20%; 
+}
