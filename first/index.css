@@ -1,0 +1,25 @@
+.body{
+    background-color: silver; 
+}
+
+.center{
+    margin-left: 15vw; 
+    height: 70vh; 
+    width: 70vw; 
+    background-color: white; 
+}
+
+.head{
+    width: 100vw; 
+    height: 15vh;
+    background-color: gray; 
+}
+
+
+.foot{
+    margin-left: 15vw; 
+    width: 70vw; 
+    height: 15vh; 
+    background-color: black; 
+    
+}
