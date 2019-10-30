@@ -1,0 +1,54 @@
+.gray{
+    background-color: gray;
+    width: 100vw; 
+    height:15vh; 
+    padding-top: 20px; 
+    
+}
+
+.littleBox{
+    background-color: lightblue; 
+    height: 10vh; 
+    width: 5vw; 
+    margin-left: 20px; 
+}
+.white{
+    width: 100vw; 
+    height: 20vh; 
+    margin-left: 40px; 
+    margin-top: 50px;
+    display: flex; 
+    justify-content: center;
+    align-content: center; 
+}
+ 
+.text{
+    width: 50%; 
+    height: 50%; 
+}
+
+.blue{
+    width: 100vw; 
+    height: 13vh; 
+    background-color: lightblue; 
+}
+
+.teal{
+    width: 100vw; 
+    height: 13vh; 
+    background-color: teal; 
+
+}
+
+.green{
+    width: 100vw; 
+    height: 13vh; 
+    background-color: greenyellow; 
+}
+
+.yellow{
+    width: 100vw; 
+    height: 13vh; 
+    background-color: yellow; 
+}
+
